@@ -1,4 +1,5 @@
-# deploy your own Database
+# deploy your own Database in configurations.php
+
 
 
 class Database
